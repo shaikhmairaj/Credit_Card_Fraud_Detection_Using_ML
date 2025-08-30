@@ -10,7 +10,7 @@ The main focus is on **data preprocessing, analysis, and model building**.
 ---
 
 ## 🛠 Work Flow
-![Workflow](project-workflow.jpg)
+![Workflow](https://github.com/shaikhmairaj/Credit_Card_Fraud_Detection_Using_ML/blob/main/project%20workflow.jpg)
 
 1. **Credit Card Data**  
    - Load dataset (CSV file containing credit card transactions).
