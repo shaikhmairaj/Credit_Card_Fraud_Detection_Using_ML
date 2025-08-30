@@ -10,7 +10,7 @@ The main focus is on **data preprocessing, analysis, and model building**.
 ---
 
 ## 🛠 Work Flow
-![Dataset](project-workflow.jpg)
+![Workflow](project-workflow.jpg)
 
 1. **Credit Card Data**  
    - Load dataset (CSV file containing credit card transactions).
